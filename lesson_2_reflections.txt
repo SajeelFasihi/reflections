@@ -1,2 +1,5 @@
-git init initailizes the repository with zero commits
+git init initailizes the repository with zero commit
 
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+ANS) In working directory documents and files are not commited untill they are added in the staging area, staging area contains the files that are to be added in the commit.
