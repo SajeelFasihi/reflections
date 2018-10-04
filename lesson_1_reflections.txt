@@ -1,0 +1,5 @@
+diff command helped me compared two files very rapidly and helped me to find a bug and a typo very quickly.
+
+having easy access to history helps us restore back to previous version in case of error or bug.
+
+google docs record every change made into the doc whereas git commit can help us make versions of the file that will be needed
